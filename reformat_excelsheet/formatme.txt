@@ -1,0 +1,159 @@
+&Bedding Annuals (24 Plants Per Flat)
+#Begonia Flats
+Green Leaf Pink
+Green Leaf  Scarlet
+Green Leaf White
+Bronze Leaf Scarlet
+Bronze Leaf  White
+Bronze Leaf Pink
+Bada Mix
+
+#Impatiens Flats
+Lipstick Pink
+Mixed
+Red
+Salmon
+White
+
+#Marigold Flats
+Hot Pak Mix
+Hot Pak Orange
+Hot Pak Yellow
+Inca Yellow 2
+Inca Orange 2
+
+#Petunia Flats
+Sky Blue
+Pink
+Deep Purple
+Single Mix
+Red
+White
+
+#Annual Flats
+Ageratum/ Blue
+Alyssum/ White
+Alyssum/ Purple
+Coleus/ Mix
+Dahlia/ Dwarf
+Dianthus/ Mix
+Dusty Miller
+Lobelia/ Blue
+Portulaca/ Mix
+Salvia/ Victoria Blue
+Salvia/ Dwarf Red
+Zinnia/ Short Mix
+
+
+#Peppers (2 Pack)
+Green Bell
+Sweet Banana
+Jalapeno
+Hungarian Hot
+Red Bell
+Yellow Bell
+
+
+#Tomatoes (2 Pack)
+Big Boy
+Early Girl
+Grape
+Sweet 100s
+Beefsteak
+Heirloom Slicer
+
+#Vegetables (2 Pack)
+Broccoli
+Cabbage
+Eggplant
+
+#3″ Herbs
+Basil
+Parsley
+Rosemary
+Oregano
+Thyme
+
+#3″ Material
+Spikes
+Vinca Vine
+&4.5″ Material
+#4.5″ Million Bells
+Purple
+Cherry
+Orange Zest
+Pink
+Serenity
+Yellow
+Rose Quartz
+
+#4.5″ Petunias
+Blue Wave
+Pink Passion Wave
+Electric Lilac
+Red Velour
+White Wave
+Yellow Wave
+Blue Vein Wave
+
+#4.5″ Sunpatiens
+Orange
+Pink
+Purple
+Red
+Salmon
+White
+#Additional 4.5″ Material
+Euphorbia Diamond Frost
+Black Sweet Potato Vine
+Yellow Sweet Potato Vine
+Lemon Coral Sedum
+
+#4.5″ Tuberous Begonias
+Pink
+Red
+Orange
+Yellow
+Salmon
+
+#4.5″ Zonal Geraniums
+//(8) - 4.5″ Pots Per Tray
+Candy Pink
+Light Salmon
+Magenta
+Red
+White
+&10″ Hanging Baskets
+
+#10″ Fern
+#10″ Fuchsia HB
+#10″ Specialty Combo HB
+Curb Appeal
+Hummingbird Falls
+Dean's Sunny Daze
+Cherry Kiss
+Daisy Dance
+Pink Lemonade
+Night in Pompeii
+Little Piece of My Heart
+All That Glitters
+Iconia Miss Malibu Combo
+Iconia Miss Montreal Combo
+
+#10″ Wave Petunia HB
+Blue Wave
+Blue Vein Wave
+Red, White & Blue
+Yellow Wave
+Electric Lilac Wave
+Blue, Coral & Pink
+#10″ Geranium Combo
+Pink
+Red
+Salmon
+
+#10″ New Guinea HB
+Pink
+Purple
+Red
+Salmon

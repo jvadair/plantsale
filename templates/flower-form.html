@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Plant Sale</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/flowers.css">
+</head>
+<body>
+<form action="/submit/flowers", method="POST">
+    {% for category in options.values %}
+        <fieldset>
+            <legend>{{ options.get(category)._name.__call__() }}</legend> {# Category name #}
+            {% for item in options.get(category).items.values %}
+                {% set item = options.get(category).items.get(item) %}
+                <div class="item">
+                    <label for="{{ item.name }}">{{ item._name.__call__() }}</label> {# item.name is the Node name, _name is the item name. #}
+                    <input id="{{ item.name }}" name="{{ item.name }}" type="number" value="0" min="0"> {# quantity #}
+                    {% if item.qualifiers.__call__() %} {# If there are any qualifiers available #}
+                        <label for="type:{{ item.name }}">Type:</label>
+                        <select name="type:{{ item.name }}" id="type:{{ item.name }}">
+                            {% for qualifier in item.qualifiers.__call__() %}
+                                <option value="{{ qualifier }}">{{ qualifier }}</option>
+                            {% endfor %}
+                        </select>
+                    {% endif %}
+                <input type="hidden" name="category:{{ item.name }}" value={{ category }}> {# This stores the category under the item #}
+                </div>
+            {% endfor %}
+        </fieldset>
+    {% endfor %}
+    <div class="userinfo">
+        <input type="text" name="customer_name" placeholder="Your Name">
+        <input type="tel" name="phone" placeholder="Phone number">
+        <input type="submit" value="Place order">
+    </div>
+{#    <textarea name="special_requests" placeholder="Any special requests?"></textarea>#}
+</form>
+</body>
+</html>

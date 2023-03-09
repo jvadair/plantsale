@@ -1,0 +1,49 @@
+form {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 50px;
+/*   padding: 50px; */
+  max-width: 750px;
+  margin: 50px;
+  margin-left: 20px;
+}
+
+/* Main fields */
+
+form fieldset {
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  grid-gap: 25px;
+}
+
+form fieldset .item {
+  display: flex;
+  flex-direction: row;
+  grid-gap: 25px;
+}
+
+form fieldset .item input {
+  margin-left: auto;
+  width: 50px;
+}
+
+form fieldset .item select {
+  width: 275px;
+}
+
+/* User info */
+form .userinfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+form .userinfo input:last-of-type {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+/* TODO: Span elements that center-align their content and will flow (the span) onto next line if necessary */

@@ -1,0 +1,13 @@
+/* CSS reset */
+body, html {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,284 @@
+{
+  "038d88d9-9555-4e33-90af-61c9dfdb15c6": {
+    "_name": "Bedding Annuals (24 Plants Per Flat)",
+    "items": {
+      "0dda9b34-f4a3-44ec-b3a5-fc93f9c7a578": {
+        "_name": "Impatiens Flats",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Lipstick Pink",
+          "Mixed",
+          "Red",
+          "Salmon",
+          "White"
+        ]
+      },
+      "0f7f383c-0064-49d6-b9fe-682fa279089e": {
+        "_name": "Marigold Flats",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Hot Pak Mix",
+          "Hot Pak Orange",
+          "Hot Pak Yellow",
+          "Inca Yellow 2",
+          "Inca Orange 2"
+        ]
+      },
+      "5beb0859-5d68-43b7-9fbe-194bbf43ee2e": {
+        "_name": "Petunia Flats",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Sky Blue",
+          "Pink",
+          "Deep Purple",
+          "Single Mix",
+          "Red",
+          "White"
+        ]
+      },
+      "7dee2f48-5110-4007-87ae-e0c52e896926": {
+        "_name": "Peppers (2 Pack)",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Green Bell",
+          "Sweet Banana",
+          "Jalapeno",
+          "Hungarian Hot",
+          "Red Bell",
+          "Yellow Bell"
+        ]
+      },
+      "a295e3fa-a40a-453f-b70f-4815bb5020b3": {
+        "_name": "Vegetables (2 Pack)",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Broccoli",
+          "Cabbage",
+          "Eggplant"
+        ]
+      },
+      "a5bc83d9-2787-4002-b4cd-e82820feb012": {
+        "_name": "3\u2033 Material",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Spikes",
+          "Vinca Vine"
+        ]
+      },
+      "b8c44d2b-80ce-4aad-9dd6-2497dd12c297": {
+        "_name": "Annual Flats",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Ageratum/ Blue",
+          "Alyssum/ White",
+          "Alyssum/ Purple",
+          "Coleus/ Mix",
+          "Dahlia/ Dwarf",
+          "Dianthus/ Mix",
+          "Dusty Miller",
+          "Lobelia/ Blue",
+          "Portulaca/ Mix",
+          "Salvia/ Victoria Blue",
+          "Salvia/ Dwarf Red",
+          "Zinnia/ Short Mix"
+        ]
+      },
+      "e1413a96-fa2e-4ecd-995e-ef2b6ac319e6": {
+        "_name": "Begonia Flats",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Green Leaf Pink",
+          "Green Leaf  Scarlet",
+          "Green Leaf White",
+          "Bronze Leaf Scarlet",
+          "Bronze Leaf  White",
+          "Bronze Leaf Pink",
+          "Bada Mix"
+        ]
+      },
+      "ec7414b6-64b7-4f2d-be4b-3d5625e47dd6": {
+        "_name": "Tomatoes (2 Pack)",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Big Boy",
+          "Early Girl",
+          "Grape",
+          "Sweet 100s",
+          "Beefsteak",
+          "Heirloom Slicer"
+        ]
+      },
+      "ee074afe-1e59-4f4b-b150-799c36fd89aa": {
+        "_name": "3\u2033 Herbs",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Basil",
+          "Parsley",
+          "Rosemary",
+          "Oregano",
+          "Thyme"
+        ]
+      }
+    }
+  },
+  "509ae515-fab0-4ef1-9cec-411e5953bd90": {
+    "_name": "10\u2033 Hanging Baskets",
+    "items": {
+      "07c0541e-f7a7-4353-87c1-bcb76db96cfa": {
+        "_name": "10\u2033 Fuchsia HB",
+        "comment": null,
+        "price": 0,
+        "qualifiers": []
+      },
+      "3f9d09af-e536-4cab-b84f-681db051151f": {
+        "_name": "10\u2033 Fern",
+        "comment": null,
+        "price": 0,
+        "qualifiers": []
+      },
+      "6b3ca71f-8604-4471-8612-1368ee1fe19c": {
+        "_name": "10\u2033 Specialty Combo HB",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Curb Appeal",
+          "Hummingbird Falls",
+          "Dean's Sunny Daze",
+          "Cherry Kiss",
+          "Daisy Dance",
+          "Pink Lemonade",
+          "Night in Pompeii",
+          "Little Piece of My Heart",
+          "All That Glitters",
+          "Iconia Miss Malibu Combo",
+          "Iconia Miss Montreal Combo"
+        ]
+      },
+      "93a30893-1f31-4957-99bd-9b19f4283428": {
+        "_name": "10\u2033 Geranium Combo",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Pink",
+          "Red",
+          "Salmon"
+        ]
+      },
+      "df2eadd1-1f6f-446b-92b0-31a02d8fa04a": {
+        "_name": "10\u2033 Wave Petunia HB",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Blue Wave",
+          "Blue Vein Wave",
+          "Red, White & Blue",
+          "Yellow Wave",
+          "Electric Lilac Wave",
+          "Blue, Coral & Pink"
+        ]
+      },
+      "e989bda9-b399-42d6-878e-1cf96cb36cfc": {
+        "_name": "10\u2033 New Guinea HB",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Pink",
+          "Purple",
+          "Red",
+          "Salmon"
+        ]
+      }
+    }
+  },
+  "e5eea612-8f2c-4ba5-981e-ff74fcbcbaa0": {
+    "_name": "4.5\u2033 Material",
+    "items": {
+      "417cbad8-da89-47d0-98dc-fb7e9d753313": {
+        "_name": "4.5\u2033 Petunias",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Blue Wave",
+          "Pink Passion Wave",
+          "Electric Lilac",
+          "Red Velour",
+          "White Wave",
+          "Yellow Wave",
+          "Blue Vein Wave"
+        ]
+      },
+      "640df97d-cee9-40db-8080-0eeffb4aa41f": {
+        "_name": "Additional 4.5\u2033 Material",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Euphorbia Diamond Frost",
+          "Black Sweet Potato Vine",
+          "Yellow Sweet Potato Vine",
+          "Lemon Coral Sedum"
+        ]
+      },
+      "7a21c6e5-6991-4ef9-8a01-481956d680b4": {
+        "_name": "4.5\u2033 Sunpatiens",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Orange",
+          "Pink",
+          "Purple",
+          "Red",
+          "Salmon",
+          "White"
+        ]
+      },
+      "946a43f3-194c-474f-9eba-be31f871ad76": {
+        "_name": "4.5\u2033 Zonal Geraniums",
+        "comment": "(8) - 4.5\u2033 Pots Per Tray",
+        "price": 0,
+        "qualifiers": [
+          "Candy Pink",
+          "Light Salmon",
+          "Magenta",
+          "Red",
+          "White"
+        ]
+      },
+      "a32e00e7-6316-40eb-ae93-4d44ae42eb40": {
+        "_name": "4.5\u2033 Million Bells",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Purple",
+          "Cherry",
+          "Orange Zest",
+          "Pink",
+          "Serenity",
+          "Yellow",
+          "Rose Quartz"
+        ]
+      },
+      "f54c6dfd-27ee-4e2a-9499-76a2eaff3f1b": {
+        "_name": "4.5\u2033 Tuberous Begonias",
+        "comment": null,
+        "price": 0,
+        "qualifiers": [
+          "Pink",
+          "Red",
+          "Orange",
+          "Yellow",
+          "Salmon"
+        ]
+      }
+    }
+  }
+}
